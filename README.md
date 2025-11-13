@@ -54,7 +54,3 @@ Today marks **Day 99** of my 100 Days of Code journey!
 Building this project has been a fulfilling experience that ties together everything I’ve learned about **JavaScript** and **React**. I’m excited to share it as one of my final projects before completing this amazing challenge. 💪
 
 ---
-
-
-
-Would you like me to **insert your real GitHub link, Netlify link, and screenshot** placeholders for you next? I can make it ready to copy-paste directly into your repo.
