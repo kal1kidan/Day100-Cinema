@@ -32,7 +32,7 @@ Welcome to **Day100 Cinema App**, a modern and responsive web app that allows us
 
 ## 📸 Preview
 
-![App Screenshot](src\assets\preview.png)
+![App Screenshot](src/assets/preview.png) 
 
 ---
 
