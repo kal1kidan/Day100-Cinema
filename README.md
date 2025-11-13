@@ -6,7 +6,9 @@ Welcome to **Day100 Cinema App**, a modern and responsive web app that allows us
 
 ## 🚀 Live Demo
 
+🔗 [Live Demo](https://day100-cinema.netlify.app/)  
 
+## GitHub Repository
 💻 [GitHub Repository](https://github.com/kal1kidan/Day100-Cinema)
 
 ---
